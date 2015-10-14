@@ -12,8 +12,11 @@ Before starting, please install Topsoil.
 
 After opening Topsoil, we first need to import some data. Copy the table below by first highlighting the text. Then, click on the Topsoil data table and paste it in by using the paste shortcut (control-v on Windows or command-v on Mac).
 
-| 207Pb*/235U  | ±2σ (%)     | 206Pb*/238U | ±2σ (%)     | corr coef   |
-|--------------|-------------|-------------|-------------|-------------|
+Table with values coming soon!
+
+<!---
+ | 207Pb\*/235U  | ±2σ (%)     | 206Pb\*/238U | ±2σ (%)     | corr coef   |
+ |--------------|:-------------:|:-------------:|:-------------:|-------------:|
 | 29.165688743 | 1.519417676 | 0.712165893 | 1.395116767 | 0.918191745 |
 | 29.031535970 | 1.799945600 | 0.714916493 | 1.647075269 | 0.915069472 |
 | 29.002008069 | 1.441943510 | 0.709482828 | 1.324922704 | 0.918845083 |
@@ -31,6 +34,8 @@ After opening Topsoil, we first need to import some data. Copy the table below b
 | 29.350104553 | 1.513999270 | 0.711983592 | 1.384417989 | 0.914411266 |
 | 29.979576581 | 1.595745814 | 0.724426340 | 1.458894294 | 0.914239775 |
 | 29.344673618 | 1.551935035 | 0.714166474 | 1.420060290 | 0.915025602 |
+
+-->
 
 Now that we have data, let's make it into a new chart. To do this, first click the "Error Ellipse Chart" button on the toolbar. A dialog should now appear asking you to choose the columns that correspond to each of the variables. For this example, Topsoil's default selection is correct, so ensure that the x- and y-errors are identified as 1σ and percentages (or else choose the correct options from the drop down menus) and press "Create chart".
 
