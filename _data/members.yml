@@ -1,3 +1,35 @@
+- name: Griffin Hiers
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: 
+  position: Undergraduate Research Assistant
+  email: hiersgp@g.cofc.edu
+  blog: 
+
+- name: Wyatt Wade Morris
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: 
+  position: Undergraduate Research Assistant
+  email: morrisww@g.cofc.edu
+  blog: 
+
+- name: John-Michael Baldy
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: 
+  position: Undergraduate Research Assistant
+  email: baldyj@g.cofc.edu
+  blog: 
+
+- name: Julian Smith
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: 
+  position: Undergraduate Research Assistant
+  email: smithl3@g.cofc.edu
+  blog: 
+  
 - name: Robert Bigelow
   date: 2016-06-01 00:00:00
   status: current
@@ -285,3 +317,4 @@
   office: Harbor Walk East 307
   email: luskjh@g.cofc.edu
   blog:  http://www.trissino.net/
+  
