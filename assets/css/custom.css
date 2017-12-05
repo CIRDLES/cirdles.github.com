@@ -80,7 +80,7 @@ dd {
 
 /****** Links ******/
 a {
-	color: black;
+	/* color: black; */
 }
 
 a:hover {
@@ -233,6 +233,7 @@ left: 0;
 .title {
 	padding-top: 5px;
 	color: #fbfbf2;
+	text-decoration: none;
 }
 
 .icon > svg {
@@ -240,12 +241,11 @@ left: 0;
 }
 
 .icon > svg path {
-    fill: #fff;
-
+    fill: black;
 }
 
 .icon-glyph {
-	color: #fff;
+	color: black;
 }
 
 .logo {
