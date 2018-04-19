@@ -16,7 +16,7 @@
 
 - name: Tia Curry
   date: 2016-06-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/TiaCurry.png
   position: Undergraduate Research Assistant
   email: currytn@g.cofc.edu
@@ -341,4 +341,36 @@
   image_url: /assets/images/juliusWalton.jpg
   position: Undergraduate Research Assistant
   email: waltonjj@g.cofc.edu
+  blog:
+
+- name: Maël Gaonach
+  date: 2018-04-15 00:00:00
+  status: current
+  image_url: /assets/images/MaelGaonach.jpg
+  position: Undergraduate Research Assistant / Intern
+  email: mael@gaonach.com
+  blog: http://blog.mael-gaonach.fr
+
+- name: Ryan Barrett
+  date: 2017-11-15 00:00:00
+  status: current
+  image_url:
+  position: Undergraduate Research Assistant
+  email: barrettra@g.cofc.edu 
+  blog:
+
+- name: Allison Hansen
+  date: 2017-09-01 00:00:00
+  status: current
+  image_url:
+  position: Undergraduate Research Assistant
+  email: hansena@g.cofc.edu 
+  blog:
+
+- name: Casey Wilson
+  date: 2017-09-01 00:00:00
+  status: current
+  image_url:
+  position: Graduate Research Assistant
+  email: wilsonpm@g.cofc.edu 
   blog:
