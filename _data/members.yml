@@ -1,6 +1,6 @@
 - name: Madison Maniaci
   date: 2016-06-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/maniacimm.JPG
   position: Undergraduate Research Assistant
   email: maniacimm@g.cofc.edu
@@ -8,7 +8,7 @@
 
 - name: Julian Smith
   date: 2016-06-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/julian-smith.png
   position: Undergraduate Research Assistant
   email: Smithl3@g.cofc.edu
@@ -24,7 +24,7 @@
 
 - name: Robert Bigelow
   date: 2016-06-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/drew_pic.jpg
   position: Undergraduate Research Assistant
   email: bigelowd@g.cofc.edu
@@ -82,7 +82,7 @@
 
 - name: Elaina Cole
   date: 2015-04-30 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/elaina_cole.jpg
   position: Undergraduate Research Assistant
   office: Harbor Walk East 307
@@ -275,7 +275,7 @@
 
 - name: Tyler Newman
   date: 2015-10-21 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/tyler_newman.jpg
   position: Undergraduate Research Assistant
   office: Harbor Walk East 307
@@ -294,7 +294,7 @@
 
 - name: Emily Coleman
   date: 2015-10-21 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/emily_coleman.jpg
   position: Undergraduate Research Assistant
   office: Harbor Walk East 307
@@ -323,13 +323,13 @@
   date: 2016-06-01 00:00:00
   status: current
   image_url: /assets/images/jm.jpg
-  position: Undergraduate Research Assistant
+  position: Graduate Research Assistant
   email: marottajb@g.cofc.edu
   blog:
 
 - name: John-Michael Baldy
   date: 2016-06-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/J-M_Baldy.jpg
   position: Undergraduate Research Assistant
   email: baldyj@g.cofc.edu
@@ -345,7 +345,7 @@
 
 - name: Maël Gaonach
   date: 2018-04-15 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/MaelGaonach.JPG
   position: Undergraduate Research Assistant / Intern
   email: mael@gaonach.com
@@ -369,8 +369,32 @@
 
 - name: Casey Wilson
   date: 2017-09-01 00:00:00
-  status: current
+  status: past
   image_url:
   position: Graduate Research Assistant
   email: wilsonpm@g.cofc.edu 
+  blog:
+
+- name: Bryce Barrett
+  date: 2018-05-01 00:00:00
+  status: current
+  image_url: /assets/images/bryce_barrett.JPG
+  position: Undergraduate Research Assistant
+  email: barrettbs@g.cofc.edu 
+  blog:
+
+- name: Meagan Gould
+  date: 2019-01-01 00:00:00
+  status: current
+  image_url:
+  position: Undergraduate Research Assistant
+  email: gouldma@g.cofc.edu 
+  blog:
+
+- name: James Rundle
+  date: 2018-09-01 00:00:00
+  status: current
+  image_url:
+  position: Undergraduate Research Assistant
+  email: rundleja@g.cofc.edu 
   blog:
