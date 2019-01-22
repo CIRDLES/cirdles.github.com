@@ -93,7 +93,7 @@
   date: 2013-01-01 00:00:00
   status: current
   image_url: /assets/images/gabrielle_cozart.jpeg
-  position: Undergraduate Research Assistant
+  position: Graduate Research Assistant
   office: Harbor Walk East 307
   email: cozartge@g.cofc.edu
   blog: http://gabriellecozart.blogspot.com/
@@ -386,7 +386,7 @@
 - name: Meagan Gould
   date: 2019-01-01 00:00:00
   status: current
-  image_url:
+  image_url: /assets/images/Meagan_Gould.jpg
   position: Undergraduate Research Assistant
   email: gouldma@g.cofc.edu 
   blog:
