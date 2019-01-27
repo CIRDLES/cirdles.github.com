@@ -394,7 +394,7 @@
 - name: James Rundle
   date: 2018-09-01 00:00:00
   status: current
-  image_url:
+  image_url: /assets/images/James_Rundle.jpeg
   position: Undergraduate Research Assistant
   email: rundleja@g.cofc.edu 
   blog:
