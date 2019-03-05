@@ -5,6 +5,13 @@ title: Welcome
 category: Welcome
 reference: welcome
 ---
+**UPDATE March 2019**
+
+Squid3 was presented at the IX SHRIMP 2018 Workshop in South Korea and a tutorial
+workshop held.  Since then, we have incorporated feedback and advanced the design and functionality of
+Squid3 with a new release: Squid3v1.1.0 on 4 March 2019.
+
+**HISTORY**
 
 Squid 3.0 was proposed as the project name for replacing Squid 2.50 during the VIII SHRIMP 2016 Workshop in Granada.
 
