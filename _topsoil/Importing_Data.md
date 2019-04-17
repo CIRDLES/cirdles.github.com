@@ -9,36 +9,32 @@ When importing your data into Topsoil, you have a few options:
 
 <font size="4"><b>Importing from a File – (.csv, .tsv, .txt):</b></font>
 
-1. Navigate to Table >> Import Data Table. Select “From File”.
-  <img src="/assets/images/import-from-file.png" width="100%">
+1. Navigate to File >> Import. Select “From File”.
+  <img src="/assets/images/importData.png" width="100%">
 
 2. A file chooser will appear that will allow you to select the proper file from your computer.
   <img src="/assets/images/open-table-file.png" width="100%">
 
-3. (If the delimiter request window doesn't appear, skip to 4.) If you are importing a .txt file, and Topsoil can’t automatically determine how your data values are separated, you’ll be presented with a dialog box. You can select from common data separators from the drop-down list, or, by selecting “Other”, you can specify your own. Once you've specified a separator to use, click "OK".
-  <img src="/assets/images/delimiter-request.png" width="100%">
+3. You will now see a new pop-up window. Within this window you will see that the default delimiter/data separator is a comma. You can also choose from 3 different data templates within this window. They are the default, classic, or Squid 3 templates. Once you have selected a template click the "OK" button.
+  <img src="/assets/images/importingPopout.png" width="100%">
 
-4. A helper window will appear containing a preview of your data. The column names and first five data rows are shown as they would be imported into Topsoil. Above that is a row of drop-down lists with the names of each of the five plotting variables that Topsoil uses. From this screen, you’re able to use the drop-down lists to select which of your data columns correspond to the which variables. Selecting these variables is not necessary in this step, as you will be able to change these selections later by pressing the "Assign Variables" button in Topsoil's main window.
-  <img src="/assets/images/data-preview.png" width="100%">
+4. A helper window will now appear. It will allow you to toggle what columns of your data you would like to see. In addition to this, you will be able to assign variables to data columns. Lastly, you will be able to change your uncertainty format and isotope system within this window. Once you have completed modifying these settings, please click the "OK" button.
+  <img src="/assets/images/variableSelector.png" width="100%">
 
-5. In the same window, there is a drop-down list towards the bottom for selecting the format of your uncertainty values. The values will be in the table and editable as the format you specify, but Topsoil will convert them into 1-sigma absolute format so that you can apply different formats to a plot. Select one and click "Finish".
-
-6.	You’re done! Topsoil will populate the table with the provided values. Please note that the default [isotope system](#is_sys) is Generic, which will not support any special plotting features provided for each type of isotope system. The isotope system can be changed freely from a drop-down list in the Plot Manger section, beneath the table.  
-  <img src="/assets/images/plot-manager.png" width="100%">
+5.	You’re done! Topsoil will populate the table with the provided values. Please take some time to acquaint yourself with the tableview of your newly input data. In the near future, we will be creating a guide with some of the new, useful features that have been introduced to Topsoil. Keep your eyes open! 
+  <img src="/assets/images/topsoilTable.png" width="100%">
 
 
 <font size="4"><b>Importing from the Clipboard:</b></font>
 
-1. Navigate to Table >> Import Data Table. Select “From Clipboard”.
-  <img src="/assets/images/import-from-clipboard.png" width="100%">
+1. Navigate to File >> Import. Select “From Clipboard”.
+  <img src="/assets/images/importDataClip.png" width="100%">
 
-2. (If the delimiter request window doesn't appear, skip to 3.)If you are importing a .txt file, and Topsoil can’t automatically determine how your data values are separated, you’ll be presented with a dialog box. You can select from common data separators from the drop-down list, or, by selecting “Other”, you can specify your own. Once you've specified a separator to use, click "OK".
-  <img src="/assets/images/delimiter-request.png" width="100%">
+2. You will now see a new pop-up window. Within this window you will see that the default delimiter/data separator is not selected. Please select what delimiter your copied data is separated with from the dropdown. You can also choose from 3 different data templates within this window. They are the default, classic, or Squid 3 templates. Once you have selected a template click the "OK" button.
+  <img src="/assets/images/importingPopoutClip.png" width="100%">
 
-3. A helper window will appear containing a preview of your data. The column names and first five data rows are shown as they would be imported into Topsoil. Above that is a row of drop-down lists with the names of each of the five plotting variables that Topsoil uses. From this screen, you’re able to use the drop-down lists to select which of your data columns correspond to the which variables. Selecting these variables is not necessary in this step, as you will be able to change these selections later by pressing the "Assign Variables" button in Topsoil's main window.
-  <img src="/assets/images/data-preview.png" width="100%">
+3. A helper window will now appear. It will allow you to toggle what columns of your data you would like to see. In addition to this, you will be able to assign variables to data columns. Lastly, you will be able to change your uncertainty format and isotope system within this window. Once you have completed modifying these settings, please click the "OK" button.
+  <img src="/assets/images/variableSelector.png" width="100%">
 
-4. In the same window, there is a drop-down list towards the bottom for selecting the format of your uncertainty values. The values will be in the table and editable as the format you specify, but Topsoil will convert them into 1-sigma absolute format so that you can apply different formats to a plot. Select one and click "Finish".
-
-5. You’re done! Topsoil will populate the table with the provided values. Please note that the default [isotope system](#is_sys) is Generic, which will not support any special plotting features provided for each type of isotope system. The isotope system can be changed freely from a drop-down list in the Plot Manger section, beneath the table.
-  <img src="/assets/images/plot-manager.png" width="100%">
+4.	You’re done! Topsoil will populate the table with the provided values. Please take some time to acquaint yourself with the tableview of your newly input data. In the near future, we will be creating a guide with some of the new, useful features that have been introduced to Topsoil. Keep your eyes open! 
+  <img src="/assets/images/topsoilTable.png" width="100%">
