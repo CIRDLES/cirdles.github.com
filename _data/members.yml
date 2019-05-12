@@ -356,7 +356,7 @@
   status: current
   image_url: /assets/images/RyanBarrett.JPEG
   position: Undergraduate Research Assistant
-  email: barrettra@g.cofc.edu 
+  email: barrettra@g.cofc.edu
   blog:
 
 - name: Allison Hansen
@@ -364,7 +364,7 @@
   status: current
   image_url: /assets/images/Allison_Hansen.JPG
   position: Undergraduate Research Assistant
-  email: hansena@g.cofc.edu 
+  email: hansena@g.cofc.edu
   blog:
 
 - name: Casey Wilson
@@ -372,7 +372,7 @@
   status: past
   image_url:
   position: Graduate Research Assistant
-  email: wilsonpm@g.cofc.edu 
+  email: wilsonpm@g.cofc.edu
   blog:
 
 - name: Bryce Barrett
@@ -380,7 +380,7 @@
   status: current
   image_url: /assets/images/bryce_barrett.JPG
   position: Undergraduate Research Assistant
-  email: barrettbs@g.cofc.edu 
+  email: barrettbs@g.cofc.edu
   blog:
 
 - name: Meagan Gould
@@ -388,7 +388,7 @@
   status: current
   image_url: /assets/images/Meagan_Gould.jpg
   position: Undergraduate Research Assistant
-  email: gouldma@g.cofc.edu 
+  email: gouldma@g.cofc.edu
   blog:
 
 - name: James Rundle
@@ -396,5 +396,13 @@
   status: current
   image_url: /assets/images/James_Rundle.jpeg
   position: Undergraduate Research Assistant
-  email: rundleja@g.cofc.edu 
+  email: rundleja@g.cofc.edu
+  blog:
+
+- name: Jonari Ward
+  date: 2019-05-06 00:00:00
+  status: current
+  image_url: /assets/images/jonari_ward.JPG
+  position: Undergraduate Research Assistant
+  email: wardjs@g.cofc.edu
   blog:
