@@ -1,0 +1,64 @@
+<div class="container">
+	<div class="box col-sm-10">
+
+	<header class="tab">
+	    <h1 class="post-title">{{ page.title }}</h1>
+	</header>
+
+		{% for i in page.category-order %}
+			{% if i[1] == null %}
+				{% for item in items %}
+					{% if i[0] == item.reference %}
+						<div class="post-list" id="{{ item.reference }}">
+							<h2>{{ item.title }}</h2>
+							{% include help_section.html %}
+						</div>
+					{% endif %}
+				{% endfor %}
+			{% elsif i[1] != null %}
+				<h2 id="{{ i[1] }}">{{ i[0] }}</h2>
+				{% for j in i offset:1 %}
+					{% for item in items %}
+						{% if j == item.reference %}
+							<div class="post-list" id="{{ item.reference }}">
+								<h3>{{ item.title }}</h3>
+								{% include help_section.html %}
+							</div>
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+			{% endif %}
+		{% endfor %}
+
+	</div>
+
+	<div class="col-sm-2 hidden-xs">
+		<div id="scroll-nav">
+			<ul class="nav nav-list affix-top scroll-nav" data-spy="affix" data-offset-top="140">
+			{% for i in page.category-order %}
+				{% if i[1] == null %}
+					{% for item in items %}
+						{% if i[0] == item.reference %}
+							<li><a href="#{{ item.reference }}">{{ item.title }}</a></li>
+						{% endif %}
+					{% endfor %}
+				{% elsif i[1] != null %}
+					<li>
+						<a href="#{{ i[1] }}">{{ i[0] }}</a>
+						<ul class="nav">
+							{% for j in i offset:1 %}
+								{% for item in items %}
+									{% if j == item.reference %}
+										<li><a href="#{{ item.reference }}">{{ item.title }}</a></li>
+									{% endif %}
+								{% endfor %}
+							{% endfor %}
+						</ul>
+					</li>
+
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>

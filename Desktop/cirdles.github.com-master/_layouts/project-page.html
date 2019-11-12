@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="box col-sm-10">
+
+	  	<header class="post-header">
+	    	<h1 class="post-title">{{ page.title }}</h1>
+	  	</header>
+	  	{% for page in site.pages %}
+	  	{% if post.help %}
+	  	<article class="post-content">
+	  		{{ content }}
+	  	</article>
+	  	{% endif %}
+	  	{% endfor %}
+	</div>
+
+	<div class="col-sm-2">
+		<nav class="sidebar">
+			<ul class="nav nav-list affix-top">
+				{% for item in site.pages %}
+				{% if item.title and item.help and item.help == page.help %}
+				<li><a href="# {{ item.reference }}">{{ item.title }}</a></li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
+
+  
+</div>

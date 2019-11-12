@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body  data-spy="scroll" data-target="#scroll-nav">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+     <script src="http://code.jquery.com/jquery.min.js"></script>
+     <script src="{{"/assets/bootstrap/js/bootstrap.min.js" | prepend: site.baseurl}}"></script>
+  </body>
+
+</html>

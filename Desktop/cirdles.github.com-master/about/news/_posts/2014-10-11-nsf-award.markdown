@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PI Bowring and Team Awarded Part of NSF’s $31 Million to Improve “Big Data”"
+date:   2014-10-11 18:14:49
+author: MT Bourque
+categories: news
+---
+
+The National Science Foundation (NSF) is awarding $31 million to researchers including the College of Charleston's Jim Bowring, to develop tools, infrastructure and best practices for data science. To learn more <a href="http://today.cofc.edu/2014/10/02/college-professor-awarded-part-nsfs-31-million-improve-big-data/" target="_blank"><here/a>.

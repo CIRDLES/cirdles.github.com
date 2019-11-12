@@ -1,0 +1,29 @@
+# Site settings
+title: CIRDLES
+email: bowringj@cofc.edu
+description: > # this means to ignore newlines until "baseurl:"
+  CIRDLES is creating cyber infrastructure for geochronology in an
+  interdisciplinary collaboration among our software engineers and
+  geochemists from two NSF-supported initiatives, EARTHTIME and EarthChem.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cirdles.org" # the base hostname & protocol for your site
+github_username:  CIRDLES
+paginate: 5
+paginate_path: "/about/news/page:num/"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+plugins: [jekyll-paginate]
+exclude: [vendor]
+
+collections:
+- chroni
+- commons
+- et_redux
+- topsoil
+- tripoli
+- squid
+- ambapo
+- mars
+- McLeanRegression

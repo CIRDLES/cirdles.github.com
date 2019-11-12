@@ -1,0 +1,40 @@
+<div class="row post-list">
+  <div class="col-sm-4 col-sm-push-8">
+    {% if person.image_url %}
+    <div class="people-container mobile-center-photo">
+      <img src="{{ person.image_url }}" class="people-image"/>
+    </div>
+    {% endif %}
+  </div>
+
+	<div class="col-sm-8 col-sm-pull-4 mobile-center">
+		{% if person.name %}
+			<h3>
+				{{ person.name }}
+				{% if person.status != "current" && person.date %}
+					<span> - {{ person.date | date: '%Y' }}</span>
+			 	{% endif %}
+			</h3>
+		{% endif %}
+		<ul class="list-unstyled">
+			{% if person.position %}
+				<li>{{ person.position }}</li>
+			{% endif %}
+			{% if person.office %}
+				<li>{{ person.office }}</li>
+			{% endif %}
+			{% if person.phone %}
+				<li>{{ person.phone }}</li>
+			{% endif %}
+			{% if person.email %}
+				<li><a href="mailto:{{ person.email }}"><span class="glyphicon glyphicon-envelope icon-glyph"></span> Email</a></li>
+			{% endif %}
+			{% if person.website %}
+				<li><a href="{{ person.website }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Website</a></li>
+			{% endif %}
+			{% if person.blog %}
+				<li><a href="{{ person.blog }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Blog</a></li>
+			{% endif %}
+		</ul>
+	</div>
+</div>

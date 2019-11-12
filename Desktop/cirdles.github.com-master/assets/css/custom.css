@@ -1,0 +1,328 @@
+/*
+Theme Name: CIRDLES Website Styles
+Description: Bootstrap Customizations for CIRDLES
+Author: Joey Baldwin
+Edited by: John-Michael Baldy
+*/
+
+
+/****** General Styles ******/
+
+body {
+	color: black;
+	/* text-shadow: 0 1px 3px rgba(0,0,0,0.5); */
+	background: #C0D6DF;
+	font-size: 17px;
+	line-height: 1.5em;
+	position: relative;
+}
+
+.container {
+	width: 60%;
+}
+
+.box {
+	background: #EAEAEA;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	padding: 30px;
+}
+
+pre {
+	color: #fff;
+	border-color: #3f3f3f;
+	background: #333;
+}
+
+dd {
+	margin-bottom: 15px;
+}
+
+/* Project title styling */
+
+.tab {
+	margin: 30px;
+	margin-left: -40px;
+	background: #507282;
+	padding: 10px 40px 10px 40px;
+	border-radius: 0 5px 5px 0;
+	position: relative;
+	display: inline-block;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.2),inset 0 -1px 0 rgba(0,0,0,0.3);
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
+}
+
+.tab:before {
+	content: "";
+	position: absolute;
+	top: -10px;
+	left: 0;
+	border-color: transparent #305060 #305060 transparent;
+	border-style: solid;
+	border-width: 5px;
+	width: 0;
+	height: 0;
+}
+
+
+
+/*specifically for news pagination*/
+.disabled {
+	color: #333;
+}
+
+.center-align {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	display: block;
+}
+
+/****** Links ******/
+a {
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #507282;
+	transition: all 0.25s;
+}
+
+
+/****** header ******/
+.navbar {
+	z-index: 10;
+}
+
+.navbar-inverse {
+	background: inherit;
+	border-width: 0;
+}
+
+.dropdown-menu {
+	background: #c0d6df;
+}
+
+.dropdown-menu li a {
+	color: #000;
+}
+a.dropdown-toggle {
+	background: #c0d6df;
+}
+
+.navbar-brand {
+	font-size: 1.5em;
+	height: auto;
+	padding: 0;
+}
+
+/* drops the navbar 50px when in desktop view */
+.offset-navbar {
+	padding-top: 50px;
+}
+
+.grow {
+	transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+	transform: scale(1.1);
+}
+
+
+/****** Footer ******/
+
+.description {
+	margin-top: 1em;
+}
+
+.site-footer {
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+
+/****** Side Navigation ******/
+
+.affix {
+	top: 10px;
+}
+
+.affix-top {
+	white-space: nowrap;
+}
+
+.nav-wrapper {
+    min-height: 50px;
+}
+
+.active > a {
+	border-left: 3px solid #fff;
+}
+
+.scroll-nav li li>a:hover {
+	background-color: inherit;
+	color: orange;
+	border-left: 1px solid #fff;
+}
+
+.scroll-nav>li>a:hover {
+	background-color: inherit;
+	color: orange;
+	border-left: 1px solid #fff;
+}
+
+.nav .nav {
+	display: none;
+}
+
+.nav-list li li {
+	font-size: .6em;
+}
+
+.nav-list li a {
+	padding: 5px 15px;
+}
+
+.nav-list li li a {
+	padding: 0 20px;
+}
+
+.nav .active>ul {
+	display: block;
+}
+
+/****** News List & People List ******/
+
+.post-list {
+	margin-bottom: 40px;
+}
+
+.people-container {
+	width: 175px;
+	height: 175px;
+	overflow: hidden;
+	border-radius: 50%;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+	margin-top: 10px;
+}
+
+.people-container img {
+	width: 100%;
+}
+
+.line-section {
+	border-top: solid gray 2px;
+}
+
+
+/****** Icons & Logo ******/
+
+.svg-container {
+display: inline-block;
+position: relative;
+width: 100%;
+padding-bottom: 75%;
+}
+
+.svg-content {
+position: absolute;
+left: 0;
+}
+
+.title {
+	padding-top: 5px;
+	color: #fbfbf2;
+}
+
+.icon > svg {
+  vertical-align: middle;
+}
+
+.icon > svg path {
+    fill: #fff;
+
+}
+
+.icon-glyph {
+	color: #fff;
+}
+
+.logo {
+	margin: 0 0 0 15px;
+}
+
+
+/****** media queries ******/
+
+/* unfortunately I didn't have the
+foresite to design the website with
+a mobile first design so these media
+queries are primarily for the mobile.
+view */
+
+@media (max-width: 1087px) {
+	.container {
+		width: 80%;
+	}
+}
+
+@media (max-width: 815px) {
+	.container {
+		width: 90%;
+	}
+}
+
+@media (max-width: 768px) {
+	/*centers logo in mobile view*/
+	.logo {
+		width: 138px;
+		height: 50px;
+		margin: auto;
+	}
+
+	.mobile-center {
+		text-align: center;
+	}
+
+	.mobile-center-photo {
+		margin: auto;
+	}
+
+	.navbar-brand {
+		padding: 0 0 0 15px;
+	}
+
+	.navbar-header {
+		padding-bottom: 10px;
+	}
+
+	/* Counters the hover grow */
+	.grow {
+		transition: none !important;
+	}
+
+	.grow:hover {
+		transform: none !important;
+	}
+
+	.offset-navbar {
+		padding-top: 0;
+		z-index: 20;
+	}
+
+	.navbar {
+		margin-bottom: 0;
+	}
+
+	.container {
+		width: 100%;
+	}
+}
+
+@media (max-width: 568px) {
+	.tab {
+		margin-right: -40px;
+		display: block;
+	}
+}

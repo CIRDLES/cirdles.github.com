@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Plans for 2018"
+date:   2018-01-02
+author: Jim Bowring
+categories: news
+---
+
+2018 brings changes to CIRDLES.org including a new background color and team hats.
+
+Jake Marotta graduated in December 2017 and is re-joining us
+as a graduate research assistant in the College's Computer Science Masters Degree Program.  Jake
+will be the team lead for Topsoil development, working with Emily Coleman, Allison Hansen,
+Shefali Emmanuel, and Drew Bigelow.  We plan for Topsoil to mature enough for initial adoption
+this year including a paper submittal to SoftwareX.
+
+Elaina Cole will complete her development of Ambapo as part of her Honors College Bachelor's essay
+and submittal of a paper to SoftwareX.
+
+Julius Walton is taking over development of our MARS project as Tia Curry graduated in December 2017.
+Tia plans to continue contributing as time permits.
+
+ET_Redux development for U-series and LAICP MS data processing will continue with a planned workshop
+for the community at AGU in December at Washington DC.
+
+Squid3 development will accelerate and reach a milestone with a demonstration workshop at the
+9th International SHRIMP workshop in Seoul, South Korea in August.  Ryan Barrett is joining
+the Squid team.
+
+CHRONI development goes into maintenance mode under the guidance of Gabrielle Cozart
+as we transition to developing the architecture and
+implementation of CIRDLES' web services in 2018 with the team of Tyler Newman, Julian Smith, and
+Madison Maniaci.
+
+Finally, John-Michael Baldy will continue his UIX work towards standardizing the
+look-and-feel of our family of products.

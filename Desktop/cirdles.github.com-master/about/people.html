@@ -1,0 +1,24 @@
+---
+layout: default
+nav-category: about
+title: People
+permalink: about/people/
+---
+
+<div class="container">
+	<div class="box">
+    <header class="tab">
+  		<h1>{{ page.title }}</h1>
+    </header>
+
+  		{% assign people = site.data.members | sort:"date" %}
+  		{% for person in people %}
+  		{% if person.status == "current" %}
+
+        {% include person.html %}
+  		
+  		{% endif %}
+  		{% endfor %}
+	</div>
+  <a href="/about/past/" class="center-align col-sm-4 col-sm-offset-4">Past Team Members</a>
+</div>

@@ -1,0 +1,40 @@
+---
+layout: default
+nav-category: about
+title: News
+---
+
+<div class="container">
+	<div class="box">
+  <header class="tab">
+    <h1>News</h1>
+  </header>
+
+  <ul class="list-unstyled">
+    {% for post in paginator.posts %}
+      <li class="post-list">
+        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+        <small>Author: {{ post.author }}</small>
+
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+<div class="row">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="col-xs-6 col-sm-4">&lt&lt Previous</a>
+    {% else %}
+      <span class="col-xs-6 col-sm-4 disabled">&lt&lt Previous</span>
+    {% endif %}
+  <span class="hidden-xs col-sm-4 text-center">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="col-xs-6 col-sm-4 text-right">Next &gt&gt</a>
+  {% else %}
+    <span class="col-xs-6 col-sm-4 disabled text-right">Next &gt&gt</span>
+  {% endif %}
+
+</div>
