@@ -1,0 +1,423 @@
+- name: Madison Maniaci
+  date: 2016-06-01 00:00:00
+  status: past
+  image_url: /assets/images/maniacimm.JPG
+  position: Undergraduate Research Assistant
+  email: maniacimm@g.cofc.edu
+  blog:
+
+- name: Julian Smith
+  date: 2016-06-01 00:00:00
+  status: past
+  image_url: /assets/images/julian-smith.png
+  position: Undergraduate Research Assistant
+  email: Smithl3@g.cofc.edu
+  blog:
+
+- name: Tia Curry
+  date: 2016-06-01 00:00:00
+  status: past
+  image_url: /assets/images/TiaCurry.png
+  position: Undergraduate Research Assistant
+  email: currytn@g.cofc.edu
+  blog: https://currytn.wordpress.com/cirdles-mars/
+
+- name: Robert Bigelow
+  date: 2016-06-01 00:00:00
+  status: past
+  image_url: /assets/images/drew_pic.jpg
+  position: Undergraduate Research Assistant
+  email: bigelowd@g.cofc.edu
+  blog: http://drewbigelow.blogspot.com/
+
+- name: Shefali Emmanuel
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: /assets/images/Shefali_Emmanuel.png
+  position: Undergraduate Research Assistant
+  email: emmanuelsn@g.cofc.edu
+  blog: https://shefaliemmanuel.wordpress.com/2016/06/08/blog-post-title-2/
+
+- name: Antoine Lagarde
+  date: 2009-01-01 00:00:00
+  status: past
+  image_url: /assets/images/antoine_lagarde.gif
+  position: Univ of LaRochelle Intern Research Assistant
+  email: ant.lagarde@gmail.com
+
+- name: Brittany Johnson
+  date: 2011-01-01 00:00:00
+  status: past
+  image_url: /assets/images/brittany_johnson.png
+  position: Undergraduate Research Assistant
+  email: bjohnson2011@gmail.com
+
+- name: Chris Taylor
+  date: 2012-01-01 00:00:00
+  status: past
+  image_url: /assets/images/chris_taylor.PNG
+  position: Undergraduate Research Assistant
+  email: crtaylor@g.cofc.edu
+
+- name: Clement Parizot
+  date: 2015-06-01 00:00:00
+  status: past
+  image_url: /assets/images/clement_parizot.jpg
+  position: Undergraduate Intern from U. La Rochelle, France
+  email: parizotclement@yahoo.fr
+
+- name: Cyril Claverie
+  date: 2011-01-01 00:00:00
+  status: past
+  image_url: /assets/images/cyril_claverie.jpg
+  position: Unv of LaRochelle Intern Research Assistant
+  email: claverie.cyril@gmail.com
+
+- name: Danielle Brandon
+  date: 2010-01-01 00:00:00
+  status: past
+  image_url: /assets/images/danielle_brandon.png
+  position: Undergraduate Research Assistant
+  email: debrando@edisto.cofc.edu
+
+- name: Elaina Cole
+  date: 2015-04-30 00:00:00
+  status: past
+  image_url: /assets/images/elaina_cole.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: coleev@g.cofc.edu
+  blog: https://thechronicargonaut.wordpress.com
+
+- name: Gabrielle Cozart
+  date: 2013-01-01 00:00:00
+  status: current
+  image_url: /assets/images/gabrielle_cozart.jpeg
+  position: Graduate Research Assistant
+  office: Harbor Walk East 307
+  email: cozartge@g.cofc.edu
+  blog: http://gabriellecozart.blogspot.com/
+
+- name: Hunter Hegler
+  date: 2013-01-01 00:00:00
+  status: past
+  image_url: /assets/images/hunter_hegler.png
+  position: Undergraduate Research Assistant
+  email: jhhegler@gmail.com
+
+- name: James Goodrich
+  date: 2010-01-01 00:00:00
+  status: past
+  image_url: /assets/images/james_goodrich.png
+  position: Undergraduate Research Assistant
+  email: jdgoodrichjr@gmail.com
+
+- name: Jason Daniel
+  date: 2013-01-01 00:00:00
+  status: past
+  image_url: /assets/images/jason_daniel.gif
+  position: Undergraduate Research Assistant
+  email: jdbarnwellsc@gmail.com
+
+- name: Jessica Mack
+  date: 2013-01-01 00:00:00
+  status: past
+  image_url: /assets/images/jessica_mack.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: mackjj@g.cofc.edu
+  blog: https://cirdlesepoch.wordpress.com/
+
+- name: Jim, Bowring Ph.D.
+  start: 2000-01-01 00:00:00
+  status: current
+  image_url: /assets/images/jim_bowring.jpg
+  position: Principal Investigator
+  office: Harbor Walk East 308
+  phone: (843) 953-0805
+  email: bowringj@cofc.edu
+  website: http://www.cs.cofc.edu/~bowring
+
+- name: Jimmy Thomas
+  date: 2010-01-01 00:00:00
+  status: past
+  image_url: /assets/images/jimmy_thomas.jpeg
+  position: Unv of LaRochelle Intern Research Assistant
+  email: jimmythomas86@gmail.com
+
+- name: Joey Baldwin
+  date: 2013-01-01 00:00:00
+  status: past
+  image_url: /assets/images/joey_baldwin.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: baldwinjj@g.cofc.edu
+  blog: http://baldwinjj.blogspot.com/
+
+- name: John Zeringue
+  date: 2012-01-01 00:00:00
+  status: past
+  image_url: https://avatars.githubusercontent.com/u/3858785?v=3
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: john.joseph.zeringue@gmail.com
+  blog: http://johnzeringue.com/
+
+- name: Jonathan Benatter
+  date: 2008-01-01 00:00:00
+  status: past
+  image_url: /assets/images/jonathan_benattar.png
+  position: Univ of LaRochelle Intern Research Assistant
+  email: jonathan.benattar@gmail.com
+
+- name: Jonathan Tashakori
+  date: 2009-01-01 00:00:00
+  status: past
+  image_url: /assets/images/jonathan_tashakori.jpeg
+  position: Undergraduate Research Assistant
+  email: jtashakori@gmail.com
+
+- name: Joye Nettles
+  date: 2015-05-16 00:00:00
+  status: past
+  image_url: /assets/images/joye_nettles.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: nettlesjj@g.cofc.edu
+  blog: http://joyenettles.com/
+
+- name: Kaelin Briggs
+  date: 2013-01-01 00:00:00
+  status: past
+  image_url: /assets/images/kaelin_briggs.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: briggskp@g.cofc.edu
+
+- name: Lisa Smith
+  date: 2012-01-01 00:00:00
+  status: past
+  image_url: /assets/images/lisa_smith.JPG
+  position: Undergraduate Research Assistant
+  email: lssmith@g.cofc.edu
+
+- name: Florent Pastor
+  date: 2014-01-01 00:00:00
+  status: past
+  image_url: /assets/images/florent_pastor.jpg
+  position: Undergraduate Research Assistant
+  email: lorent.pastor@gmail.com
+
+- name: Michael Feliciano
+  date: 2012-01-01 00:00:00
+  status: past
+  image_url: /assets/images/michael_feliciano.jpg
+  position: Undergraduate Research Assistant
+  email: mefelici@g.cofc.edu
+
+- name: Michael Jacko
+  date: 2009-01-01 00:00:00
+  status: past
+  image_url: /assets/images/michael_jacko.png
+  position: Undergraduate Research Assistant
+  email: mjacko@edisto.cofc.edu
+
+- name: MT Bourque
+  date: 2015-01-01 00:00:00
+  status: past
+  image_url: /assets/images/mt_bourque.png
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: bourquem@g.cofc.edu
+  blog: http://learningcirdles.blogspot.com/
+
+- name: Patrick Brewer
+  date: 2014-01-01 00:00:00
+  status: past
+  image_url: /assets/images/patrick_brewer.png
+  position: Undergraduate Research Assistant
+  email: pkbrewer@g.cofc.edu
+  blog: http://pkbrewer.wordpress.com
+
+- name: Santoshi Devata
+  date: 2014-01-01 00:00:00
+  status: past
+  image_url: /assets/images/santoshi_devata.jpg
+  position: Graduate Research Assistant
+  email: devastas@g.cofc.edu
+  blog: http://santoshinitya.blogspot.com/
+
+- name: Stan Gasque
+  date: 2008-01-01 00:00:00
+  status: past
+  image_url: /assets/images/stan_gasque.png
+  position: Undergraduate Research Assistant
+  email: sgasque@gmail.com
+
+- name: Thomas Evans
+  date: 2015-05-17 00:00:00
+  status: past
+  image_url: /assets/images/thomas_evans.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: tlevans@g.cofc.edu
+  blog: http://tomevansdatavis.blogspot.com/
+
+- name: Benjamin Muldrow
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/benjamin_muldrow.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: muldrowbr@g.cofc.edu
+  blog: https://muldrowbr.wordpress.com/
+
+
+- name: Tyler Newman
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/tyler_newman.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: newmantp@g.cofc.edu
+  blog: https://tynewman.wordpress.com
+
+
+- name: Joshua Bingham
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/joshua_bingham.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: binghamjw@g.cofc.edu
+  blog:
+
+- name: Emily Coleman
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/emily_coleman.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: colemanea@g.cofc.edu
+  blog: https://colemaneablog.wordpress.com/
+
+- name: Joshua Lusk
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/joshua_lusk.JPG
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: luskjh@g.cofc.edu
+  blog:  http://www.trissino.net/
+
+- name: Adrien Laubus
+  date: 2015-10-21 00:00:00
+  status: past
+  image_url: /assets/images/Adrien_Laubus_Profile Picture.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: adrien.laubus@gmail.com
+  blog:  http://www.adrien-laubus.fr
+
+- name: Jake Marotta
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: /assets/images/jm.jpg
+  position: Graduate Research Assistant
+  email: marottajb@g.cofc.edu
+  blog:
+
+- name: John-Michael Baldy
+  date: 2016-06-01 00:00:00
+  status: past
+  image_url: /assets/images/J-M_Baldy.jpg
+  position: Undergraduate Research Assistant
+  email: baldyj@g.cofc.edu
+  blog:
+
+- name: Julius Walton
+  date: 2017-09-07 00:00:00
+  status: current
+  image_url: /assets/images/juliusWalton.jpg
+  position: Undergraduate Research Assistant
+  email: waltonjj@g.cofc.edu
+  blog:
+
+- name: Maël Gaonach
+  date: 2018-04-15 00:00:00
+  status: past
+  image_url: /assets/images/MaelGaonach.JPG
+  position: Undergraduate Research Assistant / Intern
+  email: mael@gaonach.com
+  blog: http://blog.mael-gaonach.fr
+
+- name: Ryan Barrett
+  date: 2017-11-15 00:00:00
+  status: current
+  image_url: /assets/images/RyanBarrett.JPEG
+  position: Undergraduate Research Assistant
+  email: barrettra@g.cofc.edu
+  blog:
+
+- name: Allison Hansen
+  date: 2017-09-01 00:00:00
+  status: current
+  image_url: /assets/images/Allison_Hansen.JPG
+  position: Undergraduate Research Assistant
+  email: hansena@g.cofc.edu
+  blog:
+
+- name: Casey Wilson
+  date: 2017-09-01 00:00:00
+  status: past
+  image_url:
+  position: Graduate Research Assistant
+  email: wilsonpm@g.cofc.edu
+  blog:
+
+- name: Bryce Barrett
+  date: 2018-05-01 00:00:00
+  status: current
+  image_url: /assets/images/bryce_barrett.JPG
+  position: Undergraduate Research Assistant
+  email: barrettbs@g.cofc.edu
+  blog:
+
+- name: Meagan Gould
+  date: 2019-01-01 00:00:00
+  status: current
+  image_url: /assets/images/Meagan_Gould.jpg
+  position: Undergraduate Research Assistant
+  email: gouldma@g.cofc.edu
+  blog:
+
+- name: James Rundle
+  date: 2018-09-01 00:00:00
+  status: current
+  image_url: /assets/images/James_Rundle.jpeg
+  position: Undergraduate Research Assistant
+  email: rundleja@g.cofc.edu
+  blog:
+
+- name: Jonari Ward
+  date: 2019-05-06 00:00:00
+  status: current
+  image_url: /assets/images/jonari_ward.JPG
+  position: Undergraduate Research Assistant
+  email: wardjs@g.cofc.edu
+  blog:
+
+- name: Josh Gilley
+  date: 2019-09-20 00:00:00
+  status: Current
+  image_url: /assets/images/JoshGilley.jpg
+  position: Undergraduate Reasearch Assistant
+  email: joshdgilley@gmail.com
+  blog: https://github.com/joshuadgilley
+
+- name: Josh Gilley
+  status: Current
+  image_url: /assets/images/JoshGilley.jpg
+  position: Undergraduate Reasearch Assistant
+  email: gilleyjd@g.cofc.edu
+  blog: 
