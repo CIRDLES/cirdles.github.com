@@ -480,15 +480,9 @@
   blog: https://AerinParker.github.io
 
 - name: Chloe Stapleton
-  status: Current
-  image_url: /assets/images/profile.jpg
-  position: Undergraduate Reasearch Assistant
-  email: stapletonce@g.cofc.edu
-  blog: https://stapletonce.github.io/
-
-- name: Chloe Stapleton
-  status: Current
+  date: 2020-06-24 00:00:00
+  status: current
   image_url: /assets/images/chloe.jpg
-  position: Undergraduate Reasearch Assistant
+  position: Undergraduate Research Assistant
   email: stapletonce@g.cofc.edu
-  blog: https://stapletonce.github.io/
+  blog: https://stapletonce.wordpress.com/cirdles
