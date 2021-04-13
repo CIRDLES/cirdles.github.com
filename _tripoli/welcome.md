@@ -6,11 +6,11 @@ category: Welcome
 reference: welcome
 ---
 
-<a href="https://github.com/CIRDLES/Tripoli-Issues" target= "&#95;blank">
+<a href="https://github.com/bowring/Tripoli" target= "&#95;blank">
 <img src="https://raw.githubusercontent.com/CIRDLES/cirdles.github.com/master/assets/icons/Tripoli2009.png" alt="link to Tripoli repository" height="95.6" width="95">
 </a>
 
-Latest version of Tripoli is <a href="https://drive.google.com/file/d/0B2El51RQ1MQnTnJFRGJTZHJwelhiazhQRXRfNzVHdXdEc0VV/view?usp=sharing" target="_blank">here</a>
+Latest version of Tripoli is <a href="https://github.com/bowring/Tripoli/releases" target="_blank">here</a>
 
 [*If you have ideas about how to improve the help, report them here!*](https://github.com/CIRDLES/Tripoli-Issues/issues/new)
 
