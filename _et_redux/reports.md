@@ -25,6 +25,6 @@ The Report Settings Manager is available as the first item under the Reports men
 
 The next two options on the Reports menu provide for Saving and Loading customized report settings as XML (extensible markup language) files.  The schema for report settings can be found <a href="https://github.com/EARTHTIME/Schema/tree/master/upbReports" target="&#95;blank">here</a> for those readers interested in the details.  A note to users - from time-to-time the schema change to accommodate new features and may require re-customization of reports.
 
-ET_Redux supports saving default report settings to customize your use of the software.  You can specify any saved report settings XML file as your default or use the <a href="http://earth-time.org" target="&#95;blank">EARTHTIME</a> recommended default.
+ET_Redux supports saving default report settings to customize your use of the software.  You can specify any saved report settings XML file as your default or use the <a href="http://earthtimetestsite.com" target="&#95;blank">EARTHTIME</a> recommended default.
 
 Finally, you can export data table reports as PDF, SVG, Excel, or CSV files.
