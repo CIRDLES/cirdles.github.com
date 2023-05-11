@@ -6,4 +6,4 @@ author: "Jim Bowring"
 categories: news
 ---
 
-CIRDLES releases Tripoli v. 4.6.2.60 today, culminating two years of improvements.  Please see the release notes <a href="http://www.earth-time.org/projects/tripoli/winos/currentRelease/ReleaseNotes.txt" target="_blank">here</a>.
+CIRDLES releases Tripoli v. 4.6.2.60 today, culminating two years of improvements.  Please see the release notes <a href="http://www.earthtimetestsite.com/projects/tripoli/winos/currentRelease/ReleaseNotes.txt" target="_blank">here</a>.

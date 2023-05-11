@@ -6,7 +6,7 @@ author: Jim Bowring
 categories: news
 ---
 
-ET_Redux is the flagship cyber infrastructure product of CIRDLES.  ET_Redux was previously known as U-Pb_Redux, but in January of 2015, was renamed to reflect its expanding functionality and its sponsor, EARTHTIME (EARTH-TIME.org).
+ET_Redux is the flagship cyber infrastructure product of CIRDLES.  ET_Redux was previously known as U-Pb_Redux, but in January of 2015, was renamed to reflect its expanding functionality and its sponsor, EARTHTIME (earthtimetestsite.com).
 
 Our new home will be: 
 <a href="https://github.com/CIRDLES/ET_Redux" target="_blank">https://github.com/CIRDLES/ET_Redux</a>.

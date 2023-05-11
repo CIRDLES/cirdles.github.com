@@ -18,7 +18,7 @@ reference: Glossary
 
 <p id="data_reduction"><font size="3" color="orange"><b>Data Reduction</b></font> - The transformation of information into an ordered, simplified form by reducing it to meaningful parts.</p>
 
-<p id="earthtime"><font size="3" color="orange"><b>EARTHTIME</b></font> - An initiative to facilitate cooperation among geochronologists with the goal of sharing ideas and approaches for eliminating or minimizing interlaboratory and intertechnique biases. Read more <a href="http://www.earth-time.org">here</a>.</p>
+<p id="earthtime"><font size="3" color="orange"><b>EARTHTIME</b></font> - An initiative to facilitate cooperation among geochronologists with the goal of sharing ideas and approaches for eliminating or minimizing interlaboratory and intertechnique biases. Read more <a href="http://www.earthtimetestsite.com">here</a>.</p>
 
 <p id="end_to_end_data_processing"><font size="3" color="orange"><b>End-to-end Data Processing</b></font> - A system that takes a raw data input and transforms it into archived analysis results.</p>
 

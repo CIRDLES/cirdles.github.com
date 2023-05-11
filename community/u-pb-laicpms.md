@@ -9,7 +9,7 @@ permalink: /community/u-pb-laicpms/
 Welcome to the LA-ICP-MS U-(Th-)Pb Data Handling page. This area of the website represents a collaboration between 
 established ‘groups’ working on improving U-(Th-)Pb geochronology data for the benefit of the whole scientific community. 
 Recognition of the problems and initiation of effort was started in the TIMS U-Pb community which combined with the Ar-Ar 
-community to establish <a href="http://www.earth-time.org" target="_blank">EARTHTIME</a>, a collaboration to improve 
+community to establish <a href="http://www.earthtimetestsite.com" target="_blank">EARTHTIME</a>, a collaboration to improve 
 inter-calibration of the geological timescale. Alongside this effort <a href="http://www.earthchem.org" target="_blank">EarthChem</a> 
 was established to appropriately archive the large volume of geochemical data generated internationally 
 and improve value for money and applicability of data from funding-agency approved projects. 
@@ -27,7 +27,7 @@ Our role, goals and objectives are described
 
 In combining skills from computer, geological and analytical sciences through <a href="http://www.CIRDLES.org" target="_blank">CIRDLES</a>, 
 <a href="http://www.earthchem.org" target="_blank">EarthChem</a>, 
-<a href="http://www.earth-time.org" target="_blank">EARTHTIME</a> and the Working Group, we are striving to achieve the best possible approach in utilising laser 
+<a href="http://www.earthtimetestsite.com" target="_blank">EARTHTIME</a> and the Working Group, we are striving to achieve the best possible approach in utilising laser 
 ablation ICP-MS U-(Th-)Pb data whilst taking advantage of mutually beneficial outcomes such as establishing better-defined internationally-available 
 reference materials and comparability of geochronology 
 results from different methods. This collaborative ethic has already proved fruitful with 
@@ -54,6 +54,6 @@ Very best regards,
 
 Matt Horstwood, Jan Kosler, Simon Jackson, Norman Pearson, Paul Sylvester
 (Co-ordinators, Working Group on LA-ICP-MS U-(Th-)Pb Geochronology)
-in collaboration with our <a href="http://www.earth-time.org" target="_blank">EARTHTIME</a>, 
+in collaboration with our <a href="http://www.earthtimetestsite.com" target="_blank">EARTHTIME</a>, 
 <a href="http://www.CIRDLES.org" target="_blank">CIRDLES</a> and <a href="http://www.earthchem.org" target="_blank">EarthChem</a> colleagues.
 
