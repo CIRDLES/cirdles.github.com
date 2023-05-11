@@ -6,4 +6,5 @@ permalink: /resources/xml-schema/
 ---
 
 Please find our public schema 
-<a href="http://www.earthtimetestsite.com/projects/upb/public_data/XSD/" target="_blank">here</a>
+
+<a href="https://github.com/EARTHTIME/Schema" target="_blank">here</a>
