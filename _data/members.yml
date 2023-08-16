@@ -345,7 +345,7 @@
 
 - name: Julius Walton
   date: 2017-09-07 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/juliusWalton.png
   position: Undergraduate Research Assistant
   email: waltonjj@g.cofc.edu
@@ -361,7 +361,7 @@
 
 - name: Ryan Barrett
   date: 2017-11-15 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/RyanBarrett.png
   position: Undergraduate Research Assistant
   email: barrettra@g.cofc.edu
@@ -409,7 +409,7 @@
 
 - name: Noah Drake
   date: 2019-03-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/NOAHDRAKE.png
   position: Undergraduate Research Assistant
   email: drakene@g.cofc.edu
@@ -425,7 +425,7 @@
 
 - name: Garrett Brenner
   date: 2019-08-08 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/Garrett_Brenner.jpeg
   position: Undergraduate Research Assistant
   email: brennergj@g.cofc.edu
@@ -433,7 +433,7 @@
 
 - name: Josh Gilley
   date: 2019-09-20 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/joshGilley1.png
   position: Undergraduate Reasearch Assistant
   email: gilleyjd@g.cofc.edu
@@ -449,7 +449,7 @@
 
 - name: Robert Niggebrugge
   date: 2019-10-10 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/RobertNiggebrugge.jpg
   position: Undergraduate Reasearch Assistant
   email: niggebruggere@g.cofc.edu
@@ -457,7 +457,7 @@
 
 - name: Daniel Halley
   date: 2019-10-15 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/DanielHalley.jpeg
   position: Undergraduate Research Assistant
   email: halleydt@g.cofc.edu
@@ -473,7 +473,7 @@
 
 - name: Aerin Parker
   date: 2020-05-22 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/AerinParker.jpg
   position: Undergraduate Research Assistant
   email: parkerak2@g.cofc.edu
@@ -481,8 +481,16 @@
 
 - name: Chloe Stapleton
   date: 2020-06-24 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/chloe.jpg
   position: Undergraduate Research Assistant
   email: stapletonce@g.cofc.edu
   blog: https://stapletonce.wordpress.com/cirdles
+
+- name: My Nguyen
+  date: 2023-07-01 00:00:00
+  status: current
+  image_url: /assets/images/myguy.jpeg
+  position: Undergraduate Research Assistant
+  email: nguyenmt@g.cofc.edu
+  blog: https://mynguy.github.io/

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Plans for 2023"
+date:   2023-08-15
+author: Jim Bowring
+categories: news
+---
+
+We are in the second year of a interdisciplinary collaborative NSF-funded
+project to  develop a new version of Tripoli.  Please see [here](https://cirdles.org/Tripoli/).
+
+If you would like to join our efforts, please contact Dr. Bowring.
