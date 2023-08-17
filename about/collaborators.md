@@ -7,7 +7,13 @@ permalink: /about/collaborators/
 
 Jason Ash, University of Kansas
 
+Ryan Barrett, College of Charleston
+
+Royal Boggs, College of Charleston
+
 Sam Bowring, MIT
+
+Scott Burdick, Wayne State University
 
 John Cottle, UC Santa Barbara
 
@@ -20,6 +26,8 @@ Ryan Ickert, University of Glasgow
 Noah McLean, University of Kansas
 
 Matt Rioux, UC Santa Barbara
+
+Ian Robinson, College of Charleston
 
 Jeff Vervoort, Washington State University
 
