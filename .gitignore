@@ -6,3 +6,5 @@ _site/
 /vendor/bundle
 
 Gemfile.lock
+
+cirdles.github.com.code-workspace
