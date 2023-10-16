@@ -509,4 +509,12 @@
   image_url: /assets/images/tang.jpeg
   position: Undergraduate Research Assistant
   email: tanglh@g.cofc.edu
-  blog: 
+  blog:
+
+- name: Nathan Whitley
+  date: 2023-10-15 00:00:00
+  status: current
+  image_url: /assets/images/nathan_whitley.jpg
+  position: Undergraduate Research Assistant
+  email: whitleynl@g.cofc.edu
+  blog:
