@@ -489,7 +489,7 @@
 
 - name: My Nguyen
   date: 2023-07-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/myguy.jpeg
   position: Undergraduate Research Assistant
   email: nguyenmt@g.cofc.edu
@@ -497,7 +497,7 @@
 
 - name: Jalen Evans
   date: 2023-07-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/JalenEvans.jpg
   position: Undergraduate Research Assistant
   email: evansje1@g.cofc.edu
@@ -505,7 +505,7 @@
 
 - name: L.T. Tang
   date: 2023-08-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/tang.jpeg
   position: Undergraduate Research Assistant
   email: tanglh@g.cofc.edu
@@ -513,7 +513,7 @@
 
 - name: Nathan Whitley
   date: 2023-10-15 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/nathan_whitley.jpg
   position: Undergraduate Research Assistant
   email: whitleynl@g.cofc.edu
@@ -521,7 +521,7 @@
 
 - name: Dan Johnson
   date: 2023-10-15 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/dan_johnson.jpg
   position: Undergraduate Research Assistant
   email: johnsondd2@g.cofc.edu
@@ -529,8 +529,16 @@
 
 - name: Jason Hardwick
   date: 2025-02-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/jasonhardwick.jpg
   position: Undergraduate Research Assistant
   email: hardwickj@g.cofc.edu
+  blog:
+
+- name: Lily Brown
+  date: 2026-07-10 00:00:00
+  status: current
+  image_url: /assets/images/LilyBrown.jpeg
+  position: Undergraduate Research Assistant
+  email: brownlg4@g.cofc.edu
   blog:
